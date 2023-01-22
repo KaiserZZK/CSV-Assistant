@@ -1,0 +1,3 @@
+([('myapp10',
+   '/Users/zekaizhang/Documents/Back-End_Dev/fa-22_Justworks-OA/ver2/dist/myapp10',
+   'EXECUTABLE')],)
